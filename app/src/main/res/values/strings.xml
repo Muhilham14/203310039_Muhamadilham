@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">203310039_Muhamadilham</string> // Nama aplikasi yang akan muncul saat aplikasi running
+
+    <string name="affirmation1">STMIK AKAKOM Berubah nama menjadi Universitas Teknologi Digital Indonesia</string>
+    <string name="affirmation2">UTDI Laksanakan Pelatihan IOT di SMK N 2 Magetan</string>
+    <string name="affirmation3">Kunjungan Industri SMK Negeri 2 Magetan ke Universitas Teknologi Digital Indonesia</string>
+    <string name="affirmation4">Bale lantip, Gedung serbaguna UTDI manjadi tempat event-event bergengsi</string>
+    <string name="affirmation5">Persiapan kuliah tatap muka, pihak kampus UTDI peketat protokol kesehatan</string>
+    <string name="affirmation6">Atlet Taekwondo UTDI raih emas di Kejurnas Sulawesi Tengah</string>
+    <string name="affirmation7">UTDI menambah prodi baru S-1 Manajemen Ritel</string>
+    <string name="affirmation8">UTDI menjadi tempat Test Psikotes tertulis yang diselenggarakan POLDA DIY</string>
+    <string name="affirmation9">Kuliah sambil kerja, kelas karyawan prodi S-1 informatika dan S-1 Sistem Informasi</string>
+    <string name="affirmation10">Podcast UTDI sekarang hadir dan bisa dilihat di Youtube UTDI</string>
+
+    // affirmation1-afirmation10 merupakan resource string individual yang nantinya akan menampilkan isi text
+
+</resources>
